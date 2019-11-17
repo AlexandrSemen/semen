@@ -1,0 +1,14 @@
+/*@font-face {
+    font-family: 'OpenSans';
+    src: url(../font/OpenSans.ttf);
+}
+li {
+    font-family: 'OpenSans';
+}*/
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+h1{
+    font-size: 50px;
+    font-weight: 800;
+}
