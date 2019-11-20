@@ -5,10 +5,27 @@
 li {
     font-family: 'OpenSans';
 }*/
+
 body{
     font-family: 'Open Sans', sans-serif;
 }
 h1{
-    font-size: 50px;
-    font-weight: 800;
+    font-size: 80px;
+    font-weight: 600;
+    color: #192b59;
+    
+}
+a{
+    text-decoration: none;
+}
+.nav {
+    font-size: 12px;
+    font-weight: 700;
+    color: #6e7ea9;
+    text-transform: uppercase;
+}
+.btn-free {
+    color: #ffffff;
+    font-weight: 400;
+    background-color: #1085e4;
 }
